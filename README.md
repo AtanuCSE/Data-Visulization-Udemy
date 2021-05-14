@@ -5,4 +5,8 @@
 This course is free and focuses on Matplotl Library
 Following codes are just for practice
 
+# 01_intro_matplot.ipynb
+
+Line, Marker, Fill Area, Legend, Label, Gridlines
+
 
