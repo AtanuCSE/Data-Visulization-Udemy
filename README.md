@@ -2,7 +2,7 @@
 
 ## https://www.udemy.com/course/matplotlib-for-data-visualization-with-python-programming-language/
 
-This course is free and focuses on Matplotl Library<br/>
+This course is free and focuses on Matplot library<br/>
 Following codes are just for practice
 
 # 01_intro_matplot.ipynb
