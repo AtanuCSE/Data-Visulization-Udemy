@@ -9,4 +9,8 @@ Following codes are just for practice
 
 Line, Marker, Fill Area, Legend, Label, Gridlines
 
+# 02_plots.ipynb
+
+Bar Plot, Histogram, Pie, Scatter, Box, 3D
+
 
