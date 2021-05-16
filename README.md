@@ -13,4 +13,8 @@ Line, Marker, Fill Area, Legend, Label, Gridlines
 
 Bar Plot, Histogram, Pie, Scatter, Box, 3D
 
+# 02_subplot.ipynb
+
+Adding multiple figures together in a single figure
+
 
